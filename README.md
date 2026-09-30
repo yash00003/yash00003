@@ -130,6 +130,64 @@ During my internship, I worked across data analysis, machine learning, NLP, and 
 
   </td>
 
+ <td width="50%" valign="top">
+
+  <h3>📊 Customer Segmentation using RFM & K-Means</h3>
+
+   <p><em>Data Analytics & Machine Learning Project</em></p>
+
+  <p>
+
+  End-to-end customer segmentation project using <strong>RFM analysis</strong>
+
+  and <strong>K-Means clustering</strong> to identify customer purchasing
+
+  behavior and generate actionable business insights.
+
+  </p>
+
+   <ul>
+
+  <li>📦 Analyzed <strong>541,909</strong> retail transactions</li>
+
+  <li>👥 Segmented <strong>4,338 unique customers</strong></li>
+
+  <li>📊 Calculated Recency, Frequency & Monetary metrics</li>
+
+  <li>🗄️ Implemented RFM aggregation using <strong>SQL and pandas</strong></li>
+
+   <li>🤖 Applied <strong>K-Means clustering</strong> with K=4</li>
+
+   <li>📈 Used Elbow Method and Silhouette Score for cluster selection</li>
+
+   <li>⚙️ Applied log transformation and StandardScaler for feature preprocessing</li>
+  <li>🌐 Built an interactive customer segmentation dashboard</li>
+
+   </ul>
+
+  <p>
+
+   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/K--Means-FF6F00?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+
+ </p>
+
+<a href="https://github.com/yash00003/customer-segmentation-rfm">View Repository →</a>
+
+  </td>
+
   </tr>
 </table>
 
