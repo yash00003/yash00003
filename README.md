@@ -94,7 +94,7 @@ During my internship, I worked across data analysis, machine learning, NLP, and 
         <img src="https://img.shields.io/badge/Gurobi-E2231A?style=flat-square"/>
   </p>
 
-  <a href="https://github.com/yash00003">View Projects →</a>
+  <a href="https://github.com/yash00003/summarization_system_for_legal_documents">View Projects →</a>
 
   </td>
 
@@ -126,7 +126,7 @@ During my internship, I worked across data analysis, machine learning, NLP, and 
         <img src="https://img.shields.io/badge/Bcrypt.js-338033?style=flat-square"/>
       </p>
 
-  <a href="https://github.com/yash00003">View Projects →</a>
+  <a href="https://github.com/yash00003/Lab_Easy">View Projects →</a>
 
   </td>
 
